@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^24.10.0"
+  },
+  "scripts": {
+    "start": "node --watch index.js"
+  }
+}
